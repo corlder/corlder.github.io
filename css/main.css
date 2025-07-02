@@ -2683,5 +2683,7 @@ details[open].callout > .callout-title > .callout-fold {
     --callout-color: var(--callout-quote);
     --callout-icon: quote-glyph;
 }
-
+.utterances {
+  max-width: 100% !important;
+}
 
